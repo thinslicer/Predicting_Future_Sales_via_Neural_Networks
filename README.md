@@ -1,4 +1,4 @@
-# SpringBoard_Capstone_2_Predicting_Total_Sales
+### SpringBoard_Capstone_2_Predicting_Future_Sales
 Abstract: Predicting total sales for every product and store by analyzing time-series datasets consisting of daily sales data from 1C Company, one of the largest Russian software firms
 
 Capstone 2 Project Proposal
